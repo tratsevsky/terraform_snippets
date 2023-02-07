@@ -1,6 +1,6 @@
-AWS Region: us-east-1 (N. Virginia)  
-AMI:        ami-04505e74c0741db8d (Ubuntu 20.04 LTS)  
-Instance:   t2.micro  
+AWS Region: **us-east-1 (N. Virginia)**  
+AMI:        **ami-04505e74c0741db8d (Ubuntu 20.04 LTS)**  
+Instance:   **t2.micro**  
 
 Userdata:
 +  Install Apache (latest) (optional)  
